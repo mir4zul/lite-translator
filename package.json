@@ -29,6 +29,14 @@
     "localization",
     "lightweight"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mir4zul/lite-translator.git"
+  },
+  "homepage": "https://github.com/mir4zul/lite-translator#readme",
+  "bugs": {
+    "url": "https://github.com/mir4zul/lite-translator/issues"
+  },
   "license": "MIT",
   "sideEffects": false,
   "engines": {
